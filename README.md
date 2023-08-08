@@ -1,4 +1,4 @@
-# Project Report - ECE 176
+# Enhanced Super-Resolution GANs Project Report
 For more information, please read Project_Report.pdf
 ## Authors
 - Marco Paredes (Electrical and Computer Engineering, A15951023)
