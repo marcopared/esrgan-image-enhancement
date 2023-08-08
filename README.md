@@ -19,8 +19,8 @@ ESRGAN builds on SRGAN, introducing improvements that lead to more realistic gen
 
 The project implemented ESRGAN, detailing its structure and specific components in PyTorch. Key parts include the generator's total loss function and the model's innovative Residual in Residual Dense Blocks (RRDB).
 
-![Discriminator and Generator Diagram](discriminator_and_generator.png)
-![RRDB Diagram](rrdb.png)
+![Discriminator and Generator Diagram](project_report/images/discriminator_and_generator.png)
+![RRDB Diagram](project_report/images/rrdb.png)
 
 ## Experiments
 
@@ -33,16 +33,16 @@ Three different datasets were utilized:
 ### Results
 
 #### Celebrity Dataset
-![Celebrity Images](img_align_celeba_images.jpg)
-![Celebrity Training Results](img_align_celeba_training_results.jpg)
+![Celebrity Images](project_report/images/img_align_celeba_images.jpg)
+![Celebrity Training Results](project_report/images/img_align_celeba_training_results.jpg)
 
 #### Dog Dataset
-![Dog Images](img_dogs_images.jpg)
-![Dog Training Results](img_dogs_training_results.jpg)
+![Dog Images](project_report/images/img_dogs_images.jpg)
+![Dog Training Results](project_report/images/img_dogs_training_results.jpg)
 
 #### Noisy Dog Dataset
-![Noisy Dog Images](img_noisy_dogs_images.jpg)
-![Noisy Dog Training Results](img_noisy_dogs_training_results.jpg)
+![Noisy Dog Images](project_report/images/img_noisy_dogs_images.jpg)
+![Noisy Dog Training Results](project_report/images/img_noisy_dogs_training_results.jpg)
 
 ## Conclusion
 
